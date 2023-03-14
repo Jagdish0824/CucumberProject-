@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T04:24:12Z" name="Default suite" finished-at="2022-10-14T04:24:19Z" duration-ms="7773">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T04:24:12Z" name="Default test" finished-at="2022-10-14T04:24:19Z" duration-ms="7773">
+      <class name="APIPractice.GetRequestEx">
+        <test-method signature="GetUserData()[pri:0, instance:APIPractice.GetRequestEx@4416d64f]" started-at="2022-10-14T04:24:12Z" name="GetUserData" finished-at="2022-10-14T04:24:19Z" duration-ms="7689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserData -->
+      </class> <!-- APIPractice.GetRequestEx -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
